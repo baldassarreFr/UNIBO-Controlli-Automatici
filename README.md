@@ -9,6 +9,14 @@ This project focuses on modeling and control design for a nonlinear mechanical s
 
 Developed in MATLAB and Simulink as part of the "Automatic Control" course at the University of Bologna.
 
+<p align="center">
+  <img src="img/immagine.png" width="500"/>
+</p>
+
+<p align="center">
+  <img src="img/immagine2.png" width="500"/>
+</p>
+
 ---
 
 **Tools:** MATLAB, Simulink  
